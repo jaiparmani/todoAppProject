@@ -30,9 +30,9 @@
       "example",
       "heroku"
     ],
-    "engines": [
+    "engines": {
       "node": "14.x"
-    ],
+    },
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
