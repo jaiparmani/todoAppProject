@@ -26,6 +26,13 @@
       "not dead",
       "not op_mini all"
     ],
+    "keywords": [
+      "example",
+      "heroku"
+    ],
+    "engines": {
+      "node": "14.4.0"
+    },
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
